@@ -1,0 +1,7 @@
+{
+  "name": "myAppBarcode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
